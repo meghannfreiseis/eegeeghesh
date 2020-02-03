@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaepoobeez.theswitchelectrical.com.au/sitemap.xml
